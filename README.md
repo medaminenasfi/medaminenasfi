@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm Mohamed Amine Nasfi
 
-<!--
-**medaminenasfi/medaminenasfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Full Stack Developer with a background in Business Information Systems  
+💻 Passionate about building scalable and user-friendly web applications  
+🚀 Tech Stack: React.js, Node.js, Express.js, MongoDB, JavaScript, HTML, CSS  
+🛠️ Tools: Postman, Git, GitHub, Firebase, VS Code, JWT, Leaflet  
+🌱 Always learning new technologies and open to collaboration  
+📍 Based in Gabès, Tunisia  
+📫 Reach me: medaminenasfy@gmail.com
 
-Here are some ideas to get you started:
+<!-- Optional: Add GitHub stats or pinned projects -->
+![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=medaminenasfi&show_icons=true&theme=default)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-amine-nasfi) | [Portfolio](#) | [Frontend Repo](#) | [Backend Repo](#)
