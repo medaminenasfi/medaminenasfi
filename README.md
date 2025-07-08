@@ -9,6 +9,6 @@
 📫 Reach me: medaminenasfy@gmail.com
 
 <!-- Optional: Add GitHub stats or pinned projects -->
-![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=medaminenasfi&show_icons=true&theme=default)
+                      ![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=medaminenasfi&show_icons=true&theme=default)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-amine-nasfi) | [Portfolio](#) | [Frontend Repo](#) | [Backend Repo](#)
