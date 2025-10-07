@@ -12,7 +12,6 @@
 
 - 🎓 Graduate in **Business Information Systems**
 - 💼 Full Stack **MERN Developer** & **Flutter Mobile Developer**
-- 🔭 Currently working on **eco-tourism platforms**, **data processing tools**, and **cross-platform mobile apps**
 - 🤝 Open to **remote jobs**, **internships**, and **collaborative projects**
 - 📍 Based in **Gabès, Tunisia**
 - 📫 Reach me at: **medaminenasfy@gmail.com**
