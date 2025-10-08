@@ -89,7 +89,7 @@ I create **cross-platform apps** using **Flutter** and connect them to robust **
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-nasfi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:medaminenasfy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="[https://mohamedamine-portfolio.onrender.com/](https://mohamedamine-portfolio.onrender.com/)" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white" /></a>
+  <a href="https://mohamedamine-portfolio.onrender.com/"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
